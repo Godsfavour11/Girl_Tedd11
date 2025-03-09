@@ -1,6 +1,5 @@
 <html>
 <body>
-  <mywebsite.com>
 <Title>OUR TEAM PROJECT</Title>
   <h1>WHAT IS EDUCATION</h1>
   <p>Before getting into the main deal, education is one essential thing every child is meant to have, or be entitled to from a very young age.
@@ -76,13 +75,11 @@ Nigeria with the tools they need to break the
 cycle of poverty, reduce inequality, and build a brighter future</li>
 </ul>
 Thank you
-  </mywebsite.com>
     <head>
     <style>
-    title {color:red;}
-      p {color:white}
-      h1 {color:red}
-      h2 {color:red}
+    title {color:blue}
+      h1 {color:orange}
+      h2 {color:orange}
       </style>
 </body>
 </html>
